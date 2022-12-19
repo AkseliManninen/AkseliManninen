@@ -1,4 +1,4 @@
-### Welcome! 👋
+## Welcome! 👋
 #### I'm is Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
 
 ### 🛠️ I'm currently working on:
