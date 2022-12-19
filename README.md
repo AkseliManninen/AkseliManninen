@@ -4,7 +4,7 @@
 ## I'm currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project)](https://github.com/AkseliManninen/Electricity-Data-Project)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkseliManninen&show_icons=true&theme=dark)
 
