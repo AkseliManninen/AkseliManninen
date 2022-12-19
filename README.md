@@ -1,5 +1,5 @@
 ## Welcome! 👋
-#### I'm is Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
+#### I'm Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
 
 ### 🛠️ I'm currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark)](https://github.com/AkseliManninen/Electricity-Data-Project)
