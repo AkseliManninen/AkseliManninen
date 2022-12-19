@@ -5,7 +5,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark)](https://github.com/AkseliManninen/Electricity-Data-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkseliManninen&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkseliManninen&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
 
 <!--
 **AkseliManninen/AkseliManninen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
