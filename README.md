@@ -8,8 +8,8 @@
     <a href="https://github.com/AkseliManninen/Electricity-Data-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark" />
     </a>
-    <a href="https://github.com/chonyy/AI-basketball-analysis">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chonyy&repo=AI-basketball-analysis&theme=vue-dark" />
+    <a href="https://github.com/chonyy/AkseliManninen/Sleep-Analysis-ML">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark" />
     </a>
 </p>
 
