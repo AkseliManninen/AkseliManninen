@@ -1,11 +1,11 @@
 ### Welcome! 👋
 #### I'm is Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
 
-#### I'm currently working on:
+### 🛠️ I'm currently working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark)](https://github.com/AkseliManninen/Electricity-Data-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
 
-#### Commits 2022:
+### Commits 2022:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkseliManninen&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
 
 <!--
