@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # Hiden elements to be used later
 # Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen)](https://github.com/AkseliManninen/github-readme-stats)
+-->
+
 
