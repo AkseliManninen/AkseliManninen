@@ -5,7 +5,7 @@
 
 
 <p align=center>
-    <a href="https://github.com/amundsen-io/amundsen">
+    <a href="https://github.com/AkseliManninen/Electricity-Data-Project">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark" />
     </a>
     <a href="https://github.com/chonyy/AI-basketball-analysis">
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # Hiden elements to be used later
 # Top Languages
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark&)](https://github.com/AkseliManninen/Electricity-Data-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
