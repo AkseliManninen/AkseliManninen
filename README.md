@@ -2,8 +2,7 @@
 #### I'm Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
 
 ### 🛠️ I'm currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark&)](https://github.com/AkseliManninen/Electricity-Data-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
+
 
 <p align=center>
     <a href="https://github.com/amundsen-io/amundsen">
@@ -30,8 +29,13 @@ Here are some ideas to get you started:
 # Hiden elements to be used later
 # Top Languages
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark&)](https://github.com/AkseliManninen/Electricity-Data-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
+
 # To be used later
+# Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen)](https://github.com/AkseliManninen/github-readme-stats)
+# Ghub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkseliManninen&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
 -->
 
