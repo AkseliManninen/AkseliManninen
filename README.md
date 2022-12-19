@@ -6,7 +6,7 @@
 
 <p align=center>
     <a href="https://github.com/AkseliManninen/Electricity-Data-Project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark" />
     </a>
     <a href="https://github.com/chonyy/AI-basketball-analysis">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chonyy&repo=AI-basketball-analysis&theme=vue-dark" />
