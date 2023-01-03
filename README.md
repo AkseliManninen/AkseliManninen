@@ -13,9 +13,7 @@
     </a>
 </p>
 
-<p align=center>
-    <iframe width="200" height="200" src="https://datastudio.google.com/embed/reporting/504f2c95-452d-438b-9a23-57faa79c0a3c/page/T2cBD" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
+<iframe src="https://datastudio.google.com/embed/reporting/504f2c95-452d-438b-9a23-57faa79c0a3c/page/T2cBD?embed=yes" width="800" height="600"></iframe>
 
 <!--
 **AkseliManninen/AkseliManninen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
