@@ -13,8 +13,6 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen&hide=jupyter%20notebook)](https://github.com/AkseliManninen/github-readme-stats)
-
 
 <!--
 **AkseliManninen/AkseliManninen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 # Hiden elements to be used later
 # Top Languages
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen&hide=jupyter%20notebook)](https://github.com/AkseliManninen/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark&)](https://github.com/AkseliManninen/Electricity-Data-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark)](https://github.com/AkseliManninen/Sleep-Analysis-ML)
