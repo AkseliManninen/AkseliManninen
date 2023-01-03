@@ -13,7 +13,7 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen)](https://github.com/AkseliManninen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen&hide=jupyter%20notebook)](https://github.com/AkseliManninen/github-readme-stats)
 
 
 <!--
