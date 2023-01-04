@@ -1,5 +1,7 @@
 ## Welcome! 👋
-#### I'm Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
+#### My name is Akseli Manninen and I am a Computer Science Master's student at Aalto University, specializing in the exciting field of Machine Learning.
+
+My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I have honed my skills through a variety of data-intensive jobs, as well as through my studies and hobby projects. In these projects, I am always seeking out new and innovative ways to put my expertise to use.
 
 ## 🛠️ I'm currently working on:
 
