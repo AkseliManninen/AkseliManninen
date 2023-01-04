@@ -1,7 +1,7 @@
 ## Welcome! 👋
 #### I'm Akseli Manninen, a Computer Science Master's student at Aalto University specialized in Machine Learning. 
 
-### 🛠️ I'm currently working on:
+## 🛠️ I'm currently working on:
 
 
 <p align=center>
@@ -13,10 +13,16 @@
     </a>
 </p>
 
-### 🧰 Toolbox
+## 🧰 Toolbox
 
 <p align=center>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src=     "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </p>
 
 <!--
