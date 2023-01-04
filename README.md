@@ -4,7 +4,7 @@
 ## 🛠️ I'm currently working on:
 
 
-<p align=center>
+<p align=left>
     <a href="https://github.com/AkseliManninen/Electricity-Data-Project">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Electricity-Data-Project&theme=dark" />
     </a>
@@ -15,7 +15,7 @@
 
 ## 🧰 Toolbox
 
-<p align=center>
+<p align=left>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  &nbsp;
@@ -26,8 +26,8 @@
 </p>
 
 ## 📊 Github statistics
-<p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen"/>
+<p align=left>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen&theme=dark"/>
 <p>
     
 <!--
