@@ -3,8 +3,9 @@
 
 My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I have honed my skills through a variety of data-intensive jobs, as well as through my studies and hobby projects. In these projects, I am always seeking out new and innovative ways to put my expertise to use.
 
-## 🛠️ I'm currently working on:
+<br />
 
+## 🛠️ I'm currently working on:
 
 <p align=left>
     <a href="https://github.com/AkseliManninen/Electricity-Data-Project">
@@ -14,6 +15,8 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkseliManninen&repo=Sleep-Analysis-ML&theme=dark" />
     </a>
 </p>
+
+<br />
 
 ## 🧰 Toolbox
 
@@ -26,6 +29,8 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </p>
+
+<br />
 
 ## 📊 Github statistics
 <p align=left>
