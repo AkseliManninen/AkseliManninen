@@ -25,10 +25,11 @@
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 </p>
 
-##
-
+## 📊 Github statistics
+<p align=center>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen"/>
-
+<p>
+    
 <!--
 **AkseliManninen/AkseliManninen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
