@@ -18,7 +18,7 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
 
 <br />
 
-## 🧰 Toolbox
+## 🧰 Toolbox:
 
 <p align=left>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  &nbsp;
@@ -32,7 +32,7 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
 
 <br />
 
-## 📊 Github statistics
+## 📊 Github statistics:
 <p align=left>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen&theme=dark"/>
 <p>
