@@ -32,6 +32,16 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
 
 <br />
 
+## 🎓 Certificates:
+<p align=left>
+    <img height=150 src= "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"/>
+    <img height=150 src= "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>
+    <img height=150 src= "https://cdn.shopify.com/s/files/1/0567/5476/5998/products/azure-fundamentals-600x600_c72535bf-f9d0-4894-a022-e43a9f28c128_grande.png?v=1625486548"/>
+    
+</p>
+    
+<br />
+
 ## 📊 Github statistics:
 <p align=left>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen&theme=dark"/>
