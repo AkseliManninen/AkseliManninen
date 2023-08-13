@@ -48,7 +48,7 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
 ## 📊 Github statistics:
 <p align=left>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen&theme=dark"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkseliManninen)](https://github.com/AkseliManninen/github-readme-stats)
 <p>
     
 <!--
