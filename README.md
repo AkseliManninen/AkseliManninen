@@ -24,10 +24,12 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  &nbsp;
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  &nbsp;
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
 </p>
 
 <br />
@@ -36,8 +38,8 @@ My thing is MLOps which combines Machine Learning, Data Engineering & DevOps. I 
 <p align=left>
     <img height=150 src= "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png"/>
     <img height=150 src= "https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png"/>
+        <img height=150 src= "https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
     <img height=150 src= "https://cdn.shopify.com/s/files/1/0567/5476/5998/products/azure-fundamentals-600x600_c72535bf-f9d0-4894-a022-e43a9f28c128_grande.png?v=1625486548"/>
-    <img height=150 src= "https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
     
 </p>
     
