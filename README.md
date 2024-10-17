@@ -1,23 +1,5 @@
 ## Welcome! 👋
 
-<br />
-
-## 🧰 Toolbox:
-
-<p align=left>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  &nbsp;
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>  &nbsp;
-
-</p>
-
-<br />
-
 ## 📊 Github statistics:
 <p align=left>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akselimanninen&theme=dark"/>
